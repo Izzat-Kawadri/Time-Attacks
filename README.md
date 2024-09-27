@@ -54,11 +54,11 @@ Here are some screenshots of the game:
 
 ![Level 1 Screenshot](./Screenshots/Screenshot1.PNG)
 
-### Loading Level Screenshot: 
+### Loading Level scene
 
 ![Loading Level Screenshot](./Screenshots/Screenshot2.PNG)
 
-### Level 2: Enemy Red Angry Bird
+### Level 2: Angry Birds
 
 ![Level 2 Screenshot](./Screenshots/Screenshot3.PNG)
 
